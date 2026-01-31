@@ -4,7 +4,7 @@
 ---
 
 ##  Project Overview
-his project focuses on early detection of Gastric Cancer using Deep Learning (CNN) techniques applied to medical imaging data. The model learns discriminative features from images to classify cancerous vs non-cancerous gastric tissues, supporting faster and more accurate diagnosis.
+This project focuses on early detection of Gastric Cancer using Deep Learning (CNN) techniques applied to medical imaging data. The model learns discriminative features from images to classify cancerous vs non-cancerous gastric tissues, supporting faster and more accurate diagnosis.
 
 Early detection of gastric cancer significantly improves survival rates, making this solution valuable for clinical decision support systems.
 ---
